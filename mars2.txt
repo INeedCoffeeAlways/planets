@@ -1,7 +1,6 @@
 Still waiting to go there - remote hub
-<<<<<<< HEAD
 changed for collaboration
 =======
 Hi there, collaborator here
 I don't need coffee always
->>>>>>> 44402f4a4412b773595019a2bbac8c378d2b105a
+
